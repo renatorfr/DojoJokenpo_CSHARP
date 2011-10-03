@@ -1,0 +1,7 @@
+c:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\bin\Debug\DojoJokenpo.Tests.dll
+c:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\bin\Debug\DojoJokenpo.Tests.pdb
+c:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\obj\Debug\DojoJokenpo.Tests.dll
+c:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\obj\Debug\DojoJokenpo.Tests.pdb
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\bin\Debug\DojoJokenpo.exe
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo.Tests\bin\Debug\DojoJokenpo.pdb

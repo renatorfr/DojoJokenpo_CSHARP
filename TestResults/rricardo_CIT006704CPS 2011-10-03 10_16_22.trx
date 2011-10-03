@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="57110d41-ba35-4679-9868-8bda61359325" name="rricardo@CIT006704CPS 2011-10-03 10:16:22" runUser="CIT\rricardo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0aac50cc-8d1f-4bcf-aa93-210c5391a0c0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rricardo_CIT006704CPS 2011-10-03 10_16_22" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-03T10:16:22.2296417-03:00" queuing="2011-10-03T10:16:23.8080192-03:00" start="2011-10-03T10:16:23.8705292-03:00" finish="2011-10-03T10:16:24.2768442-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestaSeAClasseJokenpoExiste" storage="c:\documents and settings\rricardo\meus documentos\visual studio 2010\projects\dojojokenpo\dojojokenpo.tests\bin\debug\dojojokenpo.tests.dll" id="f4e3b62b-e6f0-49f5-a629-0a541f57af01">
+      <Execution id="4fb3992e-a661-4141-8eef-821a97fbc761" />
+      <TestMethod codeBase="c:/Documents and Settings/rricardo/Meus documentos/Visual Studio 2010/Projects/DojoJokenpo/DojoJokenpo.Tests/bin/Debug/DojoJokenpo.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoJokenpo.Tests.Jokenpo, DojoJokenpo.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestaSeAClasseJokenpoExiste" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f4e3b62b-e6f0-49f5-a629-0a541f57af01" executionId="4fb3992e-a661-4141-8eef-821a97fbc761" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4fb3992e-a661-4141-8eef-821a97fbc761" testId="f4e3b62b-e6f0-49f5-a629-0a541f57af01" testName="TestaSeAClasseJokenpoExiste" computerName="CIT006704CPS" duration="00:00:00.0177095" startTime="2011-10-03T10:16:23.8861567-03:00" endTime="2011-10-03T10:16:24.2455892-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fb3992e-a661-4141-8eef-821a97fbc761">
+    </UnitTestResult>
+  </Results>
+</TestRun>

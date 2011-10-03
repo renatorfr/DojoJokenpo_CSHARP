@@ -1,0 +1,5 @@
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo\bin\Debug\DojoJokenpo.exe
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo\bin\Debug\DojoJokenpo.pdb
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo\obj\x86\Debug\DojoJokenpo.exe
+C:\Documents and Settings\rricardo\Meus documentos\Visual Studio 2010\Projects\DojoJokenpo\DojoJokenpo\obj\x86\Debug\DojoJokenpo.pdb
