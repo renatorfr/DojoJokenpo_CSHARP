@@ -19,10 +19,38 @@ namespace DojoJokenpo.Tests
         }
 
         [TestMethod]
-        public void SeTesesouraETesouraResultadoEEmpate()
+        public void SeTesouraETesouraResultadoEEmpate()
         {
             String resultado = jokenpo.Jogar("tesoura", "tesoura");
             Assert.AreEqual("empate", resultado);
+        }
+
+        [TestMethod]
+        public void SeTesouraEPedraResultadoEPedra()
+        {
+            String resultado = jokenpo.Jogar("tesoura", "pedra");
+            Assert.AreEqual("pedra", resultado);
+        }
+
+        [TestMethod]
+        public void SeTesouraEPapelResultadoETesoura()
+        {
+            String resultado = jokenpo.Jogar("tesoura", "papel");
+            Assert.AreEqual("tesoura", resultado);
+        }
+
+        [TestMethod]
+        public void SePedraEPapelResultadoEPapel()
+        {
+            String resultado = jokenpo.Jogar("pedra", "papel");
+            Assert.AreEqual("papel", resultado);
+        }
+
+        [TestMethod]
+        public void SePapelEPedraResultadoEPapel()
+        {
+            String resultado = jokenpo.Jogar("papel", "pedra");
+            Assert.AreEqual("papel", resultado);
         }
     }
 }
